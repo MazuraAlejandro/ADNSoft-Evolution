@@ -21,6 +21,11 @@
 
         <script src="app/app.js" type="text/javascript"></script>
         <script src="app/app.config.js" type="text/javascript"></script>
+        
+        <script src="app/controller/controller.inicio.js"></script>
+        <script src="app/controller/controller.contactenos.js"></script>
+        <script src="app/controller/controller.nosotros.js"></script>
+        <script src="app/controller/controller.servicios.js"></script>
 
     </body>
 </html>
