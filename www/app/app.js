@@ -1,2 +1,2 @@
-angular.module('HojadeVida', ['ngRoute', 'ngResource']);
+angular.module('adnsoft', ['ngRoute']);
 
