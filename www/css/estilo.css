@@ -373,13 +373,13 @@ input[type=number]::-webkit-inner-spin-button{
   justify-content: flex-start;
   align-self: flex-end;
   margin-bottom: 30px;
-  margin-left: 15px;
 }
 .contacto{
   justify-content: space-between;
   flex-basis: 50%;
+  margin-left: 15px;
   align-self: flex-end;
-  margin-bottom: 15px;
+  margin-bottom: 25px;
 }
 .c{
   font-family: serif;
