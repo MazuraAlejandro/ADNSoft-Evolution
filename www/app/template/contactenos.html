@@ -1,9 +1,26 @@
 <div class="divgene">
-    <nav ng-include=" 'app/template/parcial/header.html' " class="cabeza"></nav>
-
-    <div class="contenidoContactenos contenido">
-        contenido Contactenos<br>
+  <nav ng-include=" 'app/template/parcial/header.html'" class="cabeza"></nav>
+ 
+  <div class="contenidoContactenos contenido">
+    <h1 class="titulo">Contáctenos</h1>
+    <div class="col-lg-offset-3 col-lg-6 formulario">
+      <form class="form-inline">
+        <div class="form-group">
+          <input type="text" class="form-control"  placeholder="Nombre">
+        </div>
+        <div class="form-group">
+          <input type="number" class="form-control inputtexto" id="exampleInputPassword3" placeholder="Teléfono">
+        </div>
+        <div class="form-group">
+          <input type="email" class="form-control inputtexto" id="exampleInputPassword3" placeholder="Correo">
+        </div>
+      </form>
+      
+      <div class="form-group divareatexto" >
+        <textarea class="form-control areatexto" rows="5" placeholder="Mensaje"></textarea>
+        </div>
+      <button type="button" class="btn btn-primary btnenviarcontactenos">Enviar</button>
     </div>
-
-    <nav ng-include=" 'app/template/parcial/footer.html' " class="pie"></nav>
+    
+  </div>
 </div>
