@@ -25,7 +25,13 @@
         <script src="app/controller/controller.inicio.js"></script>
         <script src="app/controller/controller.contactenos.js"></script>
         <script src="app/controller/controller.nosotros.js"></script>
-        <script src="app/controller/controller.servicios.js"></script>
+        <script src="app/controller/controller.desarrolloSoftware.js"></script>
+        <script src="app/controller/controller.alistamientoSoftware.js"></script>
+        <script src="app/controller/controller.comunityManager.js"></script>
+        <script src="app/controller/controller.marketingOnline.js"></script>
+        <script src="app/controller/controller.paginasWeb.js"></script>
+        <script src="app/controller/controller.soporteTecnico.js"></script>
+        <script src="app/controller/controller.testeo.js"></script>
 
     </body>
 </html>
